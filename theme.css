@@ -1,0 +1,17 @@
+body.theme-notebook {
+    background-color: #e697d577; 
+    text-align: center;
+}<!-- 字至中-->
+.highlight {
+    color: #dae66ee7; 
+    text-shadow: 0 0 10px #ff00de, 0 0 20px #ff00de, 0 0 40px #ff00de; 
+}<!-- 找GEMINI要的螢光暈邊-->
+body.theme-notebook p {
+    font-size: 30px;
+}
+body.theme-notebook h1 {
+    font-size: 40px; 
+}
+body.theme-notebook h2 {
+    font-size: 50px; 
+}
